@@ -1,2 +1,2 @@
-# Libft
-Repository for the Libft project at 42
+# libft
+Repository for the libft project at 42
