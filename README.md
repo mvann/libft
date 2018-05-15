@@ -1,2 +1,3 @@
 # libft
-Repository for the libft project at 42
+Implementations of many standard C functions and some extras.
+A part of the 42 curriculum.
